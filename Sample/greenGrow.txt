@@ -1,0 +1,16 @@
+5
+Jeffers
+Tom
+5000
+Smith
+Sam
+10000
+Nevar
+Tina
+15000
+Kim
+Lisa
+20000
+Black
+Kim
+30000
