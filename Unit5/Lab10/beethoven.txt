@@ -1,0 +1,44 @@
+43
+23:16 Symphony No. 1 in C Major, Op. 21 
+31:12 Symphony No. 2 in D Major, Op. 36
+48:20 Symphony No. 3 in E-flat Major, Op. 55 "Eroica"
+30:50 Symphony No. 4 in B-flat Major, Op. 60
+29:05 Symphony No. 5 in C Minor, Op. 67
+35:50 Symphony No. 6 in F Major, Op. 68 "Pastoral"
+33:30 Symphony No. 7 in A Major, Op. 92 
+24:59 Symphony No. 8 in F Major, Op. 93 
+64:10 Symphony No. 9 in D Minor, Op. 125 "Choral"
+37:30 Piano Concerto No. 1 in C Major, Op. 15
+27:00 Piano Concerto No. 2 in B-flat Major, Op. 19
+35:30 Piano Concerto No. 3 in C Minor, Op. 37
+34:00 Piano Concerto No. 4 in G Major, Op. 58
+40:00 Piano Concerto No. 5 in E-flat Major, Op. 73 "Emperor"
+35:00 Triple Concerto in C Major, Op. 56
+60:00 Thirty-Three Variations on a Waltz by Anton Diabelli, Op. 120
+19:00 Piano Sonata No. 1 in F Minor, Op. 2, No. 1
+22:00 Piano Sonata No. 2 in A Major, Op. 2, No. 2
+24:00 Piano Sonata No. 3 in C Major, Op. 2, No. 3
+28:00 Piano Sonata No. 4 in E-flat Major, Op. 7
+14:00 Piano Sonata No. 6 in F Major, Op. 10, No. 2
+24:00 Piano Sonata No. 7 in D Major, Op. 10, No. 3
+19:00 Piano Sonata No. 8 in C Minor, Op. 13 "Pathetique"
+15:00 Piano Sonata No. 10 in G Major, Op. 14, No. 2
+23:00 Piano Sonata No. 11 in B-flat Major, Op. 22
+20:00 Piano Sonata No. 12 in A-flat Major, Op. 26
+15:00 Piano Sonata No. 13 in E-flat Major, Op. 27, No. 1
+16:00 Piano Sonata No. 14 in C-sharp Minor, Op. 27, No. 2
+25:00 Piano Sonata No. 15 in D Major, Op. 28
+20:00 Piano Sonata No. 16 in G Major, OP. 31, No. 1
+25:00 Piano Sonata No. 17 in D Minor, Op. 31, No. 2 "Tempest"
+8:00 Piano Sonata No. 19 in G Minor, Op. 49, No. 1
+8:00 Piano Sonata No. 20 in G Major, Op. 49, No. 2
+24:00 Piano Sonata No. 21 in C Major, Op. 53 "Waldstein"
+23:00 Piano Sonata No. 23 in F Minor, Op. 57 "Appassionata"
+10:00 Piano Sonata No. 24 in F-sharp Major, Op. 78
+16:00 Piano Sonata No. 26 in E-flat Major, Op. 81a "Les Adieux"
+15:00 Piano Sonata No. 27 in E Minor, Op. 90
+20:00 Piano Sonata No. 28 in A Major, Op. 101
+40:00 Piano Sonata No. 29 in B-flat Major, Op. 106 "Hammerklavier"
+20:00 Piano Sonata No. 30 in E Major, Op. 109
+20:00 Piano Sonata No. 31 in A-flat Major, Op. 110
+25:00 Piano Sonata No. 32 in C Minor, Op. 111
